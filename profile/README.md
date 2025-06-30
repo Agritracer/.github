@@ -6,7 +6,7 @@
 
 Để tăng tính minh bạch và độ tin cậy, hệ thống được xây dựng trên nền tảng **công nghệ Blockchain**, cho phép lưu trữ thông tin một cách **bất biến, minh bạch và phi tập trung**.
 
-Bắt đầu tại [**Manifest**](https://github.com/Agritracer/manifests.git)
+### Bắt đầu tại [**Manifest**](https://github.com/Agritracer/manifests.git)
 
 ## 🔐 Tại sao Blockchain?
 
