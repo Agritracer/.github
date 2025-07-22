@@ -30,7 +30,7 @@
 
 ## 📈 Mục tiêu của dự án
 
-- Thúc đẩy **chuyển đổi số** trong ngành chăn nuôi dê/cừu tại Ninh Thuận.
+- Thúc đẩy **chuyển đổi số** trong ngành chăn nuôi dê/cừu.
 - Ứng dụng **Blockchain** nhằm nâng cao năng lực quản lý, giám sát và xác thực dữ liệu.
 - Góp phần xây dựng **thương hiệu địa phương** mạnh mẽ, có thể vươn ra thị trường quốc tế.
 
