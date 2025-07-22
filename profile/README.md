@@ -2,7 +2,7 @@
 
 ## 🌿 Giới thiệu
 
-Ứng dụng **truy xuất nguồn gốc** đóng vai trò quan trọng trong việc theo dõi và ghi chép chi tiết các giai đoạn sản xuất, xử lý và vận chuyển của sản phẩm. Đặc biệt, tại **Ninh Thuận** – vùng chăn nuôi dê/cừu rộng lớn và giàu tiềm năng – việc triển khai hệ thống truy xuất nguồn gốc mang lại nhiều lợi ích thiết thực.
+Ứng dụng **truy xuất nguồn gốc** đóng vai trò quan trọng trong việc theo dõi và ghi chép chi tiết các giai đoạn sản xuất, xử lý và vận chuyển của sản phẩm. Đặc biệt, tại các vùng chăn nuôi dê/cừu rộng lớn và giàu tiềm năng – việc triển khai hệ thống truy xuất nguồn gốc mang lại nhiều lợi ích thiết thực.
 
 Để tăng tính minh bạch và độ tin cậy, hệ thống được xây dựng trên nền tảng **công nghệ Blockchain**, cho phép lưu trữ thông tin một cách **bất biến, minh bạch và phi tập trung**.
 
