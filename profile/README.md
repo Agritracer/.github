@@ -1,4 +1,4 @@
-# 👋 Chào mừng đến với Dự án Truy Xuất Nguồn Gốc Dê/Cừu Ninh Thuận
+# 👋 Chào mừng đến với Dự án Truy Xuất Nguồn Gốc Dê/Cừu dùng Etherscan
 
 ## 🌿 Giới thiệu
 
